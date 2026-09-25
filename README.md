@@ -29,3 +29,15 @@ Materi:
 - downTo
 - step
 <img width="5360" height="1440" alt="image" src="https://github.com/user-attachments/assets/c60256fa-978a-4a67-adea-6cfe7b76079f" />
+
+4. Function & Class
+
+Materi:
+- Function
+- Named arguments
+- Default parameter
+- Class
+- Member function
+- Data class
+- copy()
+<img width="5360" height="1440" alt="image" src="https://github.com/user-attachments/assets/2a75250b-293b-497e-8071-7bbb792f724f" />
