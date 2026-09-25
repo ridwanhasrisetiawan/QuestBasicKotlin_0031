@@ -18,3 +18,14 @@ Materi:
 - Map
 - MutableMap
 <img width="2287" height="1437" alt="image" src="https://github.com/user-attachments/assets/36a16024-0133-4b0e-92a5-3a332eb79541" />
+
+3. Conditional & Loop
+
+Materi:
+- if
+- when
+- range
+- for
+- downTo
+- step
+<img width="5360" height="1440" alt="image" src="https://github.com/user-attachments/assets/c60256fa-978a-4a67-adea-6cfe7b76079f" />
